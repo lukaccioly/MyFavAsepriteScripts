@@ -1,2 +1,3 @@
 # MyFavAsepriteScripts
-Link for individual files on description
+Slice by
+https://github.com/molingyu/AsepriteScript
